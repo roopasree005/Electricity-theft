@@ -76,5 +76,4 @@ score = iso.decision_function(scaled)[0]
 ##  Author
 
 Roopasree G
-Machine Learning Intern
 Electricity Theft Detection Project
